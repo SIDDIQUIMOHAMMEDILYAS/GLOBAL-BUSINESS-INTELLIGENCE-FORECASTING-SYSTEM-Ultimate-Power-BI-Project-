@@ -102,27 +102,6 @@ Reorder Status =
         "✅ In Stock"
     )
 ```
-
----
-
-## 📸 Dashboard Gallery
-
-*(Note: Replace image URLs with your actual screenshots)*
-
-### 1. Executive Command Center
-*The "Eagle Eye" view of the organization.*
-![Executive Dashboard]([https://via.placeholder.com/800x450/1f2328/FFFFFF?text=Executive+Overview+Placeholder](https://app.powerbi.com/groups/31206410-453b-42f9-9a3a-3589eff1f227/reports/f2adbaaa-6ee5-4e08-85d8-034f20d49297/46bf7d6f97cab9d074b3?experience=power-bi))
-
-### 2. Predictive Forecasting
-*Leveraging historical trends to predict the next 12 months.*
-![Forecasting](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Sales+Forecasting+Placeholder)
-
-### 3. Inventory Management
-*Color-coded alerts for low stock items.*
-![Inventory](https://via.placeholder.com/800x450/F2C811/000000?text=Inventory+Control+Placeholder)
-
----
-
 ## 📋 Installation & Setup
 
 1.  **Clone the Repository**
